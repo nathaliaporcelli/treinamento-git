@@ -1,1 +1,3 @@
 teste gedit bob
+oi, eu sou o Bob, sou novo aqui!
+oh  não, me esqueci duma coisa. pronto, ajustado!
